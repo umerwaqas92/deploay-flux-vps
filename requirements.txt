@@ -1,1 +1,9 @@
 Flask==3.0.2
+torch
+numpy
+Pillow
+einops
+diffusers
+accelerate
+xformers==0.0.28.post2
+torchsde
